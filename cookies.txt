@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+m.planetaescort.cl	TRUE	/	FALSE	1999999999	3lD1A8l0	hnoj90io1hbtcu8u2mv0eok1b3
+m.planetaescort.cl	TRUE	/	FALSE	1999999999	_movilCSRF	bfae2e3b9f3a73fa8327e88d7c8f86d4865f47b76ac703586c020e21a23b5bc0a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22_movilCSRF%22%3Bi%3A1%3Bs%3A32%3A%22eb8vQ_OYkf1Sfu2C5-mzMpOQ1QwRwL0P%22%3B%7D
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d77f0336c083be1b96f19b330b9c34a4c1494896331
+.planetaescort.cl	TRUE	/	FALSE	1999999999	__cfduid	d79697a42da5799f7b34d8b6d010535f31494897455
+
